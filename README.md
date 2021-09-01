@@ -1,8 +1,6 @@
 # Plant_disease_classification
 Dataset for 8 classes of plant diseases
 
-Paper: DOI: 10.3390/agriculture11090827
-
 Cite: 
 MDPI and ACS Style
 KC, K.; Yin, Z.; Li, D.; Wu, Z. Impacts of Background Removal on Convolutional Neural Networks for Plant Disease Classification In-Situ. Agriculture 2021, 11, 827. https://doi.org/10.3390/agriculture11090827
